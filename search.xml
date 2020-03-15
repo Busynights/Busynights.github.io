@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>picture</title>
+    <url>/2020/03/15/picture/</url>
+    <content><![CDATA[<p><img src="/.com//cover1.jpg" alt="星空图片"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>First Blog</title>
     <url>/2020/03/14/firstblog/</url>
     <content><![CDATA[<p>###博客搭建完成第一天</p>
@@ -41,7 +47,6 @@
 
 </p><p><img src="http://pic172.nipic.com/file/20180710/3046502_083016331000_2.jpg" alt="星空图片"></p>
 <p><a href="https://www.baidu.com/?tn=44048691_1_oem_dg" target="_blank" rel="noopener">百度</a></p>
-<p><img src="/.com//cover1.jpg" alt="星空图片"></p>
 ]]></content>
   </entry>
   <entry>
