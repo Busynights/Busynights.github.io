@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>First Blog</title>
+    <url>/2020/03/14/firstblog/</url>
+    <content><![CDATA[<p>###博客搭建完成第一天</p>
+<blockquote>
+<p>业精于勤，荒于嬉，行成于思，毁于随。</p>
+</blockquote>
+ <p> <font face=“黑体” color="" size="5">md文档的编辑的基本的知识
+ </font><p>
+ 1.标题大小的选择，分为六个等级，使用时在标题前加#，#越多，标题越小，第六个以后#只当普通字符处理。
+2.文字的加粗与斜体，用*来完成, 在文字两边各用一个表示斜体，用两个表示加粗。
+3. 无序列表和有序列表：在文字前用减号加空格表示无序列表，用数字加小圆点加空格表示有序列表。
+4. 图片的引用：！加中括号加小括号(英文下的)，中括号中写名称，小括号中写网址。
+5. 超链接：中括号加小括号，于图片引用相同。
+6. 字体、颜色和大小等要用HTML来表示。
+
+<p> 
+#一级标题
+##二级标题
+###三级标题
+####四级标题
+#####五级标题
+######六级标
+<p>
+<p>
+**加粗**            
+ *斜体*
+ <p>
+ <p>
+ - 无序列表1
+ - 无序列表2
+ - 无序列表3
+ <p>
+ <p>
+ 1. 有序列表
+ 2. 有序列表
+ 3. 有序列表
+ <p>
+
+<p><img src="http://pic172.nipic.com/file/20180710/3046502_083016331000_2.jpg" alt="星空图片"></p>
+<p><a href="https://www.baidu.com/?tn=44048691_1_oem_dg" target="_blank" rel="noopener">百度</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/03/12/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
