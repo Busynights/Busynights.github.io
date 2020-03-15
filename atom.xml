@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Busynights</title>
-  
+  <icon>https://www.gravatar.com/avatar/0226a80ef0295ea2875a51cdfac91b8d</icon>
   <subtitle>业精于勤，荒于嬉，行成于思，毁于随</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-15T01:38:55.803Z</updated>
+  <updated>2020-03-15T07:13:51.257Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
     <name>John Doe</name>
-    
+    <email>3130243969@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/03/14/firstblog/"/>
     <id>http://yoursite.com/2020/03/14/firstblog/</id>
     <published>2020-03-14T10:19:09.631Z</published>
-    <updated>2020-03-15T01:38:55.803Z</updated>
+    <updated>2020-03-15T07:13:51.257Z</updated>
     
     <summary type="html">
     
