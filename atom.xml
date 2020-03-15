@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-15T13:43:31.367Z</updated>
+  <updated>2020-03-15T15:09:38.639Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/03/14/firstblog/"/>
     <id>http://yoursite.com/2020/03/14/firstblog/</id>
     <published>2020-03-14T10:19:09.631Z</published>
-    <updated>2020-03-15T13:43:31.367Z</updated>
+    <updated>2020-03-15T15:09:38.639Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,7 @@
       
         
         
-          &lt;p&gt;###博客搭建完成第一天&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;业精于勤，荒于嬉，行成于思，毁于随。&lt;/p&gt;
-&lt;/blockquote&gt;
- &lt;p&gt; &lt;font face=&quot;“黑体”&quot; color size=&quot;5&quot;&gt;md文档的编辑的基本的知识
-
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
