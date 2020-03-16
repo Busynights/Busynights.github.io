@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-15T15:28:22.170Z</updated>
+  <updated>2020-03-16T00:07:48.981Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,24 @@
     <link href="http://yoursite.com/2020/03/14/firstblog/"/>
     <id>http://yoursite.com/2020/03/14/firstblog/</id>
     <published>2020-03-14T10:19:09.631Z</published>
-    <updated>2020-03-15T15:28:22.170Z</updated>
+    <updated>2020-03-16T00:07:48.981Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
+      &lt;p&gt;###博客搭建完成第一天&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;业精于勤，荒于嬉，行成于思，毁于随。&lt;/p&gt;
+&lt;/blockquote&gt;
+ &lt;p&gt; &lt;font face=&quot;“黑体”&quot; color=&quot;微软雅黑&quot; size=&quot;5&quot;&gt;md文档的编辑的基本的知识&lt;/font&gt;&lt;/p&gt;
+
+ &lt;p&gt;
+ 1.标题大小的选择，分为六个等级，使用时在标题前加#，#越多，标题越小，第六个以后#只当普通字符处理。&lt;br&gt;
+2.文字的加粗与斜体，用*来完成, 在文字两边各用一个表示斜体，用两个表示加粗。&lt;br&gt;
+3. 无序列表和有序列表：在文字前用减号加空格表示无序列表，用数字加小圆点加空格表示有序列表。&lt;br&gt;
+4. 图片的引用：！加中括号加小括号(英文下的)，中括号中写名称，小括号中写网址。&lt;br&gt;
+5. 超链接：中括号加小括号，于图片引用相同。&lt;br&gt;
+6. 字体、颜色和大小等要用HTML来表示。
+&lt;/p&gt;
     
     </summary>
     
@@ -44,17 +51,14 @@
     <link href="http://yoursite.com/2020/03/12/hello-world/"/>
     <id>http://yoursite.com/2020/03/12/hello-world/</id>
     <published>2020-03-12T11:19:03.029Z</published>
-    <updated>2020-03-15T15:20:20.427Z</updated>
+    <updated>2020-03-16T00:07:47.542Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
